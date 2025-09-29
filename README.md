@@ -19,7 +19,7 @@ With real-time data, geolocation, and a user-friendly design, RedFlow makes bloo
 
 ## 📱 App Screenshots
 ### Home Screen
-![Home Screen](Home Screen.jpg)
+![Home Screen](Images/Home Screen.jpg)
 
 ### Inbox Screen
 ![Inbox Screen](Inbox Screen.jpg)
