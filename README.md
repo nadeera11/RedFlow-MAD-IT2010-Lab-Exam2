@@ -12,36 +12,29 @@ Built with real‑time data, geolocation, and a clean, human‑centered UI.
 - **Profiles & Activity Tracking**
 
 ## 📱 App Screenshots
-### Logo / Splash Screen
-![Logo / Splash Screen](<Images/Logo.jpg>)
 
-### Home Screen
-![Home Screen](<Images/Home%20Screen.jpg>)
+<p align="center">
+  <img src="Images/Logo.jpg" alt="Logo" width="45%"/>
+  <img src="Images/Home%20Screen.jpg" alt="Home Screen" width="45%"/>
+</p>
 
-### Inbox Screen
-![Inbox Screen](<Images/Inbox%20Screen.jpg>)
+<p align="center">
+  <img src="Images/Inbox%20Screen.jpg" alt="Inbox Screen" width="45%"/>
+  <img src="Images/Notification%20Screen%20.jpg" alt="Notification Screen" width="45%"/>
+</p>
 
-### Notification Screen
-![Notification Screen](<Images/Notification%20Screen%20.jpg>)
+<p align="center">
+  <img src="Images/Onboard%20Screen%201.jpg" alt="Onboard 1" width="30%"/>
+  <img src="Images/Onboard%20Screen%202.jpg" alt="Onboard 2" width="30%"/>
+  <img src="Images/Onboard%20Screen%203.jpg" alt="Onboard 3" width="30%"/>
+</p>
 
-### Onboard Screen 1
-![Onboard Screen 1](<Images/Onboard%20Screen%201.jpg>)
+<p align="center">
+  <img src="Images/Profile%20.jpg" alt="Profile Screen" width="45%"/>
+  <img src="Images/Sign%20In%20Page.jpg" alt="Sign In" width="45%"/>
+</p>
 
-### Onboard Screen 2
-![Onboard Screen 2](<Images/Onboard%20Screen%202.jpg>)
-
-### Onboard Screen 3
-![Onboard Screen 3](<Images/Onboard%20Screen%203.jpg>)
-
-### Profile Screen
-![Profile Screen](<Images/Profile%20.jpg>)
-
-### Sign In Page
-![Sign In Page](<Images/Sign%20In%20Page.jpg>)
-
-### Sign Up Page
-![Sign Up Page](<Images/Sign%20Up%20Page.jpg>)
-
-### Welcome Page
-![Welcome Page](<Images/Welcome%20Page.jpg>)
-
+<p align="center">
+  <img src="Images/Sign%20Up%20Page.jpg" alt="Sign Up" width="45%"/>
+  <img src="Images/Welcome%20Page.jpg" alt="Welcome Page" width="45%"/>
+</p>
