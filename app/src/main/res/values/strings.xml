@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">RedFlow</string>
+    <string name="txt_sign_in">Sign In</string>
+    <string name="txt_sign_up">Sign Up</string>
+    <string name="txt_email">Email Address</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_forgot_password">Forgot Password</string>
+    <string name="txt_remember_me">Remember Me</string>
+    <string name="txt_send_code">Send Code</string>
+    <string name="txt_verify">Verify</string>
+    <string name="txt_reset_password">Reset Password</string>
+    <string name="txt_new_password">New Password</string>
+    <string name="txt_confirm_password">Confirm Password</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_inbox">Inbox</string>
+    <string name="nav_notification">Notification</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="home_greeting">Locate Donors Around You</string>
+    <string name="btn_donate">Donate</string>
+    <string name="btn_request">Blood Request</string>
+    <string name="btn_banks">Blood Bank</string>
+    <string name="btn_find_donor">Find Donors</string>
+
+    <string name="donations">Donations</string>
+    <string name="requests">Requests</string>
+    <string name="i_want_to_donate">I Want To Donate</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="blood_request">Blood Request</string>
+    <string name="settings">Settings</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about_us">About Us</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string-array name="blood_groups">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="countries_basic">
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Brazil</item>
+        <item>South Africa</item>
+        <item>Japan</item>
+        <item>Mexico</item>
+        <item>Russia</item>
+        <item>China</item>
+        <item>Italy</item>
+        <item>Spain</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+

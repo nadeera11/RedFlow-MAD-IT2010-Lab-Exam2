@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rf_primary">#E5004D</color>
+    <color name="rf_primary_dark">#C00040</color>
+    <color name="rf_accent">#FF2E63</color>
+    <color name="rf_surface">#F7F7FB</color>
+    <color name="rf_card">#FFFFFF</color>
+    <color name="rf_text_primary">#111111</color>
+    <color name="rf_text_secondary">#6B7280</color>
+    <color name="rf_success">#2ECC71</color>
+    <color name="rf_warning">#FFB020</color>
+    <color name="rf_divider">#E6E6EB</color>
+</resources>

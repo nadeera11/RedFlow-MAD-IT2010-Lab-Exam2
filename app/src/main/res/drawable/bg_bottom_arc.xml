@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="170dp"
+    android:viewportWidth="360"
+    android:viewportHeight="170">
+    <!-- soft light gray curve -->
+    <path
+        android:fillColor="#F4F5F7"
+        android:pathData="M0,60 Q180,-20 360,60 L360,170 L0,170 Z"/>
+</vector>

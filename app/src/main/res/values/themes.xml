@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.RedFlow" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/rf_primary</item>
+        <item name="colorPrimaryVariant">@color/rf_primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/rf_primary_dark</item>
+        <item name="android:navigationBarColor">@color/rf_card</item>
+    </style>
+</resources>
